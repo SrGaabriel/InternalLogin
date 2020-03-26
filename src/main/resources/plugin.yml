@@ -1,0 +1,14 @@
+name: InternalLogin
+description: A very simple login plugin.
+version: 1.0
+main: net.gabriel.internal.login.com.InternalLogin
+author: xGabriel
+commands:
+  login:
+    description: Plugin's login command
+  register:
+    description: Plugin's register command
+  unregister:
+    description: Plugin's unregister command
+  changepassword:
+    description: Plugin's change password command
